@@ -14,7 +14,7 @@
 
     a.  [PASCAL VOC 2007 devkit and dataset](http://host.robots.ox.ac.uk/pascal/VOC/) under `data` folder
 
-    b.  Pre-computed edge-boxes for selectiveSearch-boxes for PASCAL VOC 2007 from [GoolgeDrive](https://drive.google.com/drive/folders/1WXxErFMjZ013xpSfjQWJMVZYt5dpYbNB?usp=sharing)
+    b.  Pre-computed edge-boxes and selectiveSearch-boxes for PASCAL VOC 2007 from [GoolgeDrive](https://drive.google.com/drive/folders/1WXxErFMjZ013xpSfjQWJMVZYt5dpYbNB?usp=sharing)
     
     c. Pre-trained network from [MatConvNet website](http://www.vlfeat.org/matconvnet/models) under `model` folder
 

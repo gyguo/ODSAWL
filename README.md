@@ -1,4 +1,4 @@
-# Learning Object Detectors with Semi-Annotated Weak Labels(ODSAWL)
+# Learning Object Detectors with Semi-Annotated Weak Labels(ODSAWL) TCSVT2018
 
 
 ## Installation MatConvNet and WSDDN
@@ -30,4 +30,18 @@ After completing the installation and downloading the required files, you can tr
 	    opts.iteNum = ...;
             odsawl(opts) ;
                         
+```
+
+## Citation
+```
+@article{zhang2018learning,
+  title={Learning Object Detectors With Semi-Annotated Weak Labels},
+  author={Zhang, Dingwen and Han, Junwei and Guo, Guangyu and Zhao, Long},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology},
+  volume={29},
+  number={12},
+  pages={3622--3635},
+  year={2018},
+  publisher={IEEE}
+}
 ```

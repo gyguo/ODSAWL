@@ -1,4 +1,4 @@
-# Learning Object Detectors with Semi-Annotated Weak Labels(ODSAWL) TCSVT2018
+#  TCSVT2018 Learning Object Detectors with Semi-Annotated Weak Labels(ODSAWL)
 
 
 ## Installation MatConvNet and WSDDN
